@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function TransactionApp() {
+function Transaction() {
   const [transactions, setTransactions] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [newTransaction, setNewTransaction] = useState({
@@ -100,4 +100,4 @@ function TransactionApp() {
   );
 }
 
-export default TransactionApp;
+export default Transaction;

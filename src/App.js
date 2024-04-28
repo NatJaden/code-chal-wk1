@@ -1,7 +1,7 @@
 import "./App.css";
-import TransactionApp from "./Transcation";
+import Transaction from "./Transcation";
 
 function App() {
-  return <TransactionApp />;
+  return <Transaction />;
 }
 export default App;
