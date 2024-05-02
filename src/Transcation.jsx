@@ -30,7 +30,7 @@ function Transaction() {
 
   return (
     <div>
-      <h1>Transaction App</h1>
+      <h1>Bank Of Flatiron</h1>
       <form  onSubmit={handleFormSubmit}>
         <label>
           Date:
