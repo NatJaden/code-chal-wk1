@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-chal-wk1/static/css/main.f855e6bc.css",
+    "main.js": "/code-chal-wk1/static/js/main.5601c3dc.js",
+    "static/js/453.d3943c81.chunk.js": "/code-chal-wk1/static/js/453.d3943c81.chunk.js",
+    "index.html": "/code-chal-wk1/index.html",
+    "main.f855e6bc.css.map": "/code-chal-wk1/static/css/main.f855e6bc.css.map",
+    "main.5601c3dc.js.map": "/code-chal-wk1/static/js/main.5601c3dc.js.map",
+    "453.d3943c81.chunk.js.map": "/code-chal-wk1/static/js/453.d3943c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5601c3dc.js"
+  ]
+}
